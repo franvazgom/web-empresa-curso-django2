@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "d:\\Devenv\\Anaconda35.2.0\\envs\\django2\\python.exe"
+}
